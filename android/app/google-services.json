@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356979656094",
+    "project_id": "cmsc23-todo-app-estbeltr-c8f31",
+    "storage_bucket": "cmsc23-todo-app-estbeltr-c8f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356979656094:android:d78c5773b03e648ac3c28f",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356979656094-4cqbcariibc1cok7bca1sccfovlq4cua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD78SMmBijhjQpUS2Mje0Jg3AnQWQ3l3kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356979656094-4cqbcariibc1cok7bca1sccfovlq4cua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
